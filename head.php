@@ -13,9 +13,9 @@
     <meta name="title" content="윤희동 인력 프로필" />
 
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://example.com/page.html">
+    <meta property="og:url" content="http://3.36.83.6/Myjob/">
     <meta property="og:title" content="개발 PM을 꿈꾸는 윤희동 인력프로필">
-    <meta property="og:image" content="https://example.com/image.jpg">
+    <meta property="og:image" content="http://3.36.83.6/Myjob/img/yoon.png">
     <meta property="og:description" content="이제 기획자도 어느정도 코딩을 할 줄 알아야 한다.!">
     <meta property="og:site_name" content="Site Name">
     <meta property="og:locale" content="en_US">
