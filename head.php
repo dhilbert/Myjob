@@ -7,13 +7,18 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no" />
-    <title>메트라이프 재단</title>
-    <link rel="icon" type="image/x-icon" href="https://metlifewelfare.org/images/comm/favicon.ico" />
+    <title>윤희동 인력 프로필</title>
     
-    <meta name="title" content="메트라이프" />
-    <meta property="description" content="행복한 내일은 행복한 오늘이 모여서 만들어지는 것이기에 오늘부터, 메트라이프입니다." />
-    <meta name="description" content="행복한 내일은 행복한 오늘이 모여서 만들어지는 것이기에 오늘부터, 메트라이프입니다." />
-    <meta name="keywords" content="메트라이프생명, 메트라이프코리아, 메트라이프" />
+    
+    <meta name="title" content="윤희동 인력 프로필" />
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://example.com/page.html">
+    <meta property="og:title" content="개발 PM을 꿈꾸는 윤희동 인력프로필">
+    <meta property="og:image" content="https://example.com/image.jpg">
+    <meta property="og:description" content="이제 기획자도 어느정도 코딩을 할 줄 알아야 한다.!">
+    <meta property="og:site_name" content="Site Name">
+    <meta property="og:locale" content="en_US">
     <meta name="naver-site-verification" content="3ff9b539027d80a2e6fcf6f9efea981b5097576f" />
     <meta name="robots" content="index, follow" />
     <link rel="canonical" href="https://www.metlife.co.kr/" />
