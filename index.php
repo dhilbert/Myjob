@@ -26,7 +26,7 @@
                         </a>
                     </div>
                     <div class="header__logo-container">
-                        <a href="http://3.36.83.6/METLIFE_PROTOTYPE/main.php" target="_self">
+                        <a href="http://3.36.83.6/Myjob/main.php" target="_self">
                             <img src="https://metlifewelfare.org/images/app/logo.png"
                                 alt="Metlife logo" class="header__logo" />
                         </a>
@@ -68,10 +68,58 @@
         </div>
     </header>
 
+    <nav class="navigation__menu nav-hidden">
+        <div class="container">
+            <div class="row navigation__menu_mobile-nav-header d-sm-none d-md-none d-lg-none">
+                <div class="header__logo-container">
+                <a href="http://3.36.83.6/Myjob/main.php" target="_self">
+                            <img src="https://metlifewelfare.org/images/app/logo.png"
+                                alt="Metlife logo" class="header__logo" />
+                        </a>
+                </div>
+                <svg class="icon icon-close" tabindex="0" role="button" aria-labelledby="title">
+                    <title id="title">close</title>
+                    <use xlink:href="/Myjob/css/icons-metlife.svg#icon-close"></use>
+                </svg>
+            </div>
+            <div class="row navigation__menu_mobile-utility d-md-none d-lg-none">
+                
+       
+                <svg class="icon icon-close d-none d-sm-block" tabindex="0" role="button"
+                    aria-labelledby="hamburger-tab-close">
+                    <title id="hamburger-tab-close">Close</title>
+                    <use xlink:href="/Myjob/css/icons-metlife.svg#icon-close"></use>
+                </svg>
+            </div>
+            <div class="row navigation__menu-row d-md-none d-lg-none section1" data-section="section1" id="section1">
+                
+              
+                      
+            <div class="navigation__menu-nested-nav-link-section-column ">
+                        <div class="navigation__menu-nested-nav-link-section-mobile-title link-nav font-cta-1 d-md-none d-lg-none"
+                            data-section-title="지난 사업">
+                            <a href="about-us/metlife-story/corporate-story1/corporate-20220124" target="_self">학력 사항 및 대외 활동                                </a>
+                        </div>
+
+                        <div class="navigation__menu-nested-nav-link-section-mobile-title link-nav font-cta-1 d-md-none d-lg-none"
+                            data-section-title="지난 사업">
+                            <a href="about-us/metlife-story/corporate-story1/corporate-20220124" target="_self">    보유 스킬                             </a>
+                        </div>
+                      
+                   
+                        <div class="navigation__menu-nested-nav-link-section-mobile-title link-nav font-cta-1 d-md-none d-lg-none"
+                            data-section-title="지난 사업">
+                            <a href="about-us/metlife-story/corporate-story1/corporate-20220124" target="_self"> 자기 소개서</a>
+                        </div>
+                    </div>
 
 
+                
+            </div>
+              </nav>
 
 
+              </div>
 
 
 
@@ -266,13 +314,13 @@ $item_array  = array(
                     <div class="col-4 col-md-2 value-prop__controls">
                         <a class="carousel-control left js-leftClick" href="JavaScript:void(0);" role="button" tabindex="0" aria-label="Prev">
                             <svg class="icon brand-4th" aria-hidden="true" tabindex="-1" focusable="false">
-                                <use xlink:href="https://design.metlife.comMETLIFE_PROTOTYPE/css/icons-metlife.svg#icon-chevron-left" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                                <use xlink:href="https://design.metlife.comMyjob/css/icons-metlife.svg#icon-chevron-left" aria-hidden="true" tabindex="-1" focusable="false"></use>
                             </svg>
                         </a>
                         <span class="updatepipe"></span>
                         <a class="carousel-control right js-rightClick" href="JavaScript:void(0);" role="button" tabindex="0" aria-label="Next">
                             <svg class="icon brand-4th" aria-hidden="true" tabindex="-1" focusable="false">
-                                <use xlink:href="https://design.metlife.comMETLIFE_PROTOTYPE/css/icons-metlife.svg#icon-chevron-right" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                                <use xlink:href="https://design.metlife.comMyjob/css/icons-metlife.svg#icon-chevron-right" aria-hidden="true" tabindex="-1" focusable="false"></use>
                             </svg>
                         </a>
                     </div>
@@ -286,7 +334,7 @@ $item_array  = array(
                                 <div class="value-prop__container">
                                 
                                         <div class="value-prop__item__bg">
-                                            <img src="/METLIFE_PROTOTYPE/img/p_endowment_≤120p.png" alt="" aria-hidden="true"/>
+                                            <img src="/Myjob/img/p_endowment_≤120p.png" alt="" aria-hidden="true"/>
                                         </div>
                                     
                                     <div class="value-prop__item__content  ">
@@ -310,7 +358,7 @@ $item_array  = array(
                                 <div class="value-prop__container">
                                 
                                         <div class="value-prop__item__bg">
-                                            <img src="/METLIFE_PROTOTYPE/img/utility-1_clock_≤120p.png" alt="" aria-hidden="true"/>
+                                            <img src="/Myjob/img/utility-1_clock_≤120p.png" alt="" aria-hidden="true"/>
                                         </div>
                                     
                                     <div class="value-prop__item__content  ">
@@ -334,7 +382,7 @@ $item_array  = array(
                                 <div class="value-prop__container">
                                 
                                         <div class="value-prop__item__bg">
-                                            <img src="/METLIFE_PROTOTYPE/img/hr_beneficiary-designation_≤120p.png" alt="" aria-hidden="true"/>
+                                            <img src="/Myjob/img/hr_beneficiary-designation_≤120p.png" alt="" aria-hidden="true"/>
                                         </div>
                                     
                                     <div class="value-prop__item__content  ">
