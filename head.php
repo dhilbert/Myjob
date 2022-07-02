@@ -21,8 +21,7 @@
     <meta property="og:locale" content="en_US">
     <meta name="naver-site-verification" content="3ff9b539027d80a2e6fcf6f9efea981b5097576f" />
     <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="https://www.metlife.co.kr/" />
-    <meta name="format-detection" content="telephone=no" />
+    <meta name="format-detection" content="telephone=01077741567" />
     <meta name="format-detection" content="date=no" />
     <meta name="format-detection" content="address=no" />
     <meta name="format-detection" content="email=no" />

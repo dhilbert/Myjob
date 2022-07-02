@@ -28,8 +28,7 @@ $want_array=array(array('1233','11111','4444','사이트바로가기','K-006.png
                               <div class="background__image bg '.$temp_tex.'"
                               data-desktop-src="img/'.$temp_want[4].'"
                               data-mobile-src="img/'.$temp_want[4].'"
-                              style="background-position: center center;"></div>
-                              
+                              style="background-position: center center;"></div>                         
                               
                               
                               ';      
