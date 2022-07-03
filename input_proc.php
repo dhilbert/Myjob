@@ -82,11 +82,8 @@ $maintext = $t1.'기업이 입사 제안이 왔했습니다. ';
 			
 			try {
 								
-				//$ch = curl_init('https://hooks.slack.com/services/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');
-				$ch = curl_init('https://hooks.slack.com/services/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');    // 슬랙 테스트방
-				//$ch = curl_init('https://hooks.slack.com/services/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');    //정휘영
 				
-				
+				$ch = curl_init('https://hooks.slack.com/services/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');  
 				curl_setopt($ch, CURLOPT_CUSTOMREQUEST,  'POST');
 				curl_setopt($ch, CURLOPT_POSTFIELDS,     'payload='.json_encode($this->postData));
 				curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
