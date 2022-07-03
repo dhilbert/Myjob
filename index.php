@@ -34,7 +34,7 @@
                                 <div class="quote-icon-start" aria-hidden="true">
                                     <span></span>
                                 </div>
-                                <blockquote class="offset-md-1 quote-breaker-quote-text font-desc-2">  데이터 기반  <span class="rte-smart-highlight">서비스기획자</span><br>(사용가능 개발 언어 : PHP, MySQL, Python)
+                                <blockquote class="offset-md-1 quote-breaker-quote-text font-desc-2">  준비된 개발 PM / 데이터 기반  <span class="rte-smart-highlight">서비스기획자</span><br>(사용가능 개발 언어 : PHP, MySQL, Python)
                        </blockquote>
                                 <div class="quote-breaker-author-config">
                                     <div class="quote-breaker-author">
