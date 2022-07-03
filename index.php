@@ -34,7 +34,7 @@
                                 <div class="quote-icon-start" aria-hidden="true">
                                     <span></span>
                                 </div>
-                                <blockquote class="offset-md-1 quote-breaker-quote-text font-desc-2">         개발 PM에 가장 적합한 서비스기획자<br>(사용가능 개발 언어 : PHP, MySQL, Python)
+                                <blockquote class="offset-md-1 quote-breaker-quote-text font-desc-2">  데이터 기반  <span class="rte-smart-highlight">서비스기획자</span><br>(사용가능 개발 언어 : PHP, MySQL, Python)
                        </blockquote>
                                 <div class="quote-breaker-author-config">
                                     <div class="quote-breaker-author">
@@ -44,10 +44,7 @@
                                             - SK C&C STEP EMS 구축<br>
                                             - 누리 텔레콤 EMS 구축<br>
 - 아동 심리 검사 CST 구축                    </div>
-                                        <div class="author-jobtitle">
-                                            <div class="author-job font-byline-2">                                  윤희동 지원자</div>
-                                            
-                                        </div>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -81,10 +78,18 @@
                     
                 <div class="row table-content_category_border">
                             <div class="col-5 col-sm-4 col-md-3 font-body-2 table-content_category_title">
+                                이름
+                            </div>
+                            <div class="col-7 col-sm-8 col-md-9 font-body-2 table-content_category_copy" title="Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae.">
+                            윤희동
+                            </div>
+                        </div>
+                        <div class="row table-content_category_border">
+                            <div class="col-5 col-sm-4 col-md-3 font-body-2 table-content_category_title">
                                 생년월일
                             </div>
                             <div class="col-7 col-sm-8 col-md-9 font-body-2 table-content_category_copy" title="Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae.">
-                            1983-07
+                            1983-07-16
                             </div>
                         </div>
 
