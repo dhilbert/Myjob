@@ -2,128 +2,9 @@
     
     include_once('lib/dbcon.php');
     include_once('head.php');
+    
   
 ?>
-
-
-<h1 class="seo-hidden" aria-hidden="true">메트라이프</h1>
-    <script type="text/javascript" defer>
-        var WRInitTime = (new Date()).getTime();
-    </script>
-    <header class="header ">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 header__container">
-                    <div class="header__mobile-navigation">
-                        <a href="#" tabindex="0" class="header__navigation-hamburger" role="button"
-                            aria-labelledby="navmenu">
-                            <svg class="icon icon-menu header__navigation-trigger" aria-hidden="true" tabindex="-1"
-                                focusable="false">
-                                <title id="navmenu">Navigation</title>
-                                <use xlink:href="css/icons-metlife.svg#icon-menu" aria-hidden="true"
-                                    tabindex="-1" focusable="false"></use>
-                            </svg>
-                        </a>
-                    </div>
-                    <div class="header__logo-container">
-                        <a href="http://3.36.83.6/Myjob/main.php" target="_self">
-                            <img src="https://metlifewelfare.org/images/app/logo.png"
-                                alt="Metlife logo" class="header__logo" />
-                        </a>
-                    </div>
-                    <div class="logo-divider"></div>
-                    <div class="d-none d-sm-none d-md-flex d-lg-flex header__navigation-container">
-                        <div role="button" tabindex="0" class="header__navigation-container-menu-item"
-                            data-nav-section="section1" aria-controls="section1">
-                            <div class="header__navigation-container-menu-item-title font-eyebrow-1">
-                              학력 사항 및 대외 활동
-                               
-                                
-                            </div>
-                        </div>
-                        <div role="button" tabindex="0" class="header__navigation-container-menu-item"
-                            data-nav-section="section2" aria-controls="section2">
-                            <div class="header__navigation-container-menu-item-title font-eyebrow-1">
-경력  및 프로젝트                                
-                            </div>
-                        </div>
-                        <div role="button" tabindex="0" class="header__navigation-container-menu-item"
-                            data-nav-section="section3" aria-controls="section3">
-                            <div class="header__navigation-container-menu-item-title font-eyebrow-1">
-                                보유 스킬
-                                
-                            </div>
-                        </div>
-                         <div role="button" tabindex="0" class="header__navigation-container-menu-item"
-                            data-nav-section="section3" aria-controls="section3">
-                            <div class="header__navigation-container-menu-item-title font-eyebrow-1">
-                                자기 소개서
-                                
-                            </div>
-                        </div>
-                    </div>
-                    
-                </div>
-            </div>
-        </div>
-    </header>
-
-    <nav class="navigation__menu nav-hidden">
-        <div class="container">
-            <div class="row navigation__menu_mobile-nav-header d-sm-none d-md-none d-lg-none">
-                <div class="header__logo-container">
-                <a href="http://3.36.83.6/Myjob/main.php" target="_self">
-                            <img src="https://metlifewelfare.org/images/app/logo.png"
-                                alt="Metlife logo" class="header__logo" />
-                        </a>
-                </div>
-                <svg class="icon icon-close" tabindex="0" role="button" aria-labelledby="title">
-                    <title id="title">close</title>
-                    <use xlink:href="/Myjob/css/icons-metlife.svg#icon-close"></use>
-                </svg>
-            </div>
-            <div class="row navigation__menu_mobile-utility d-md-none d-lg-none">
-                
-       
-                <svg class="icon icon-close d-none d-sm-block" tabindex="0" role="button"
-                    aria-labelledby="hamburger-tab-close">
-                    <title id="hamburger-tab-close">Close</title>
-                    <use xlink:href="/Myjob/css/icons-metlife.svg#icon-close"></use>
-                </svg>
-            </div>
-            <div class="row navigation__menu-row d-md-none d-lg-none section1" data-section="section1" id="section1">
-                
-              
-                      
-            <div class="navigation__menu-nested-nav-link-section-column ">
-                        <div class="navigation__menu-nested-nav-link-section-mobile-title link-nav font-cta-1 d-md-none d-lg-none"
-                            data-section-title="지난 사업">
-                            <a href="about-us/metlife-story/corporate-story1/corporate-20220124" target="_self">학력 사항 및 대외 활동                                </a>
-                        </div>
-
-                        <div class="navigation__menu-nested-nav-link-section-mobile-title link-nav font-cta-1 d-md-none d-lg-none"
-                            data-section-title="지난 사업">
-                            <a href="about-us/metlife-story/corporate-story1/corporate-20220124" target="_self">    보유 스킬                             </a>
-                        </div>
-                      
-                   
-                        <div class="navigation__menu-nested-nav-link-section-mobile-title link-nav font-cta-1 d-md-none d-lg-none"
-                            data-section-title="지난 사업">
-                            <a href="about-us/metlife-story/corporate-story1/corporate-20220124" target="_self"> 자기 소개서</a>
-                        </div>
-                    </div>
-
-
-                
-            </div>
-              </nav>
-
-
-              </div>
-
-
-
-
 
 
 
@@ -285,7 +166,7 @@ $title  =  '경력 요약';;
 $item_array  = array(
     array('최종 학력','대학원(석사) 졸업'),
     array('경력 사항 ',' 9년'),
-    array('희망 연봉','3억')
+    array('보유 포트폴리오','16건')
 
 
 );
@@ -348,7 +229,15 @@ $item_array  = array(
                                             <p><?php echo $item_array[0][1]?></p>
     
                                         </div>
+
+
                                         
+                                        <a class="value-prop__item__cta font-cta-1" href="/Myjob/pro1.php"> 자세히 알아보기
+                                            
+                                            <svg class="icon icon-chevron-right">
+                                                <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-right"></use>
+                                            </svg>
+                                        </a>
                                     </div>
                                 </div>
                                 
@@ -372,7 +261,15 @@ $item_array  = array(
                                             <p><?php echo $item_array[1][1]?>    </p>
     
                                         </div>
+
                                         
+
+                                        <a class="value-prop__item__cta font-cta-1" href="/Myjob/pro2.php"> 자세히 알아보기
+                                            
+                                            <svg class="icon icon-chevron-right">
+                                                <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-right"></use>
+                                            </svg>
+                                        </a>
                                     </div>
                                 </div>
                                 
@@ -396,7 +293,12 @@ $item_array  = array(
                                             <p><?php echo $item_array[2][1]?>        </p>
     
                                         </div>
-                                        
+                                        <a class="value-prop__item__cta font-cta-1" href="/Myjob/pro5.php"> 자세히 알아보기
+                                            
+                                            <svg class="icon icon-chevron-right">
+                                                <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-right"></use>
+                                            </svg>
+                                        </a>
                                     </div>
                                 </div>
                                 
@@ -631,47 +533,7 @@ $item_array  = array(
 </div>
 
 
+<?php   include_once('footer.php');?>
 
-    
-<script type="text/javascript" src="https://evolution.metlife.com/etc.clientlibs/MetlifeMarketCore/components/content/global/lead-gen-breaker/clientlibs.min.js" defer></script>
-
-
-
-    
-<link rel="stylesheet" href="https://evolution.metlife.com/etc.clientlibs/MetlifeMarketCore/components/content/global/lead-gen-breaker/clientlibs.min.css" type="text/css">
-
-
-
-
-
-
-
-<section id="jump-link-gen" class="lead-gen-breaker component component__spacing-bottom " role="region" aria-labelledby="jump-link-gen--labelledby">
-    <div id="jump-link-gen--labelledby" class="d-none" aria-hidden="true">입사 제안하기</div>
-    <div class="container-fluid lead-gen-breaker__bar">
-        <div class="row row-no-gutters">
-            <div class="filmstrip__container">
-                <div class="filmstrip__container-barOne"></div>
-                <div class="filmstrip__container-barTwo"></div>
-                <div class="filmstrip__container-barThree"></div>
-            </div>
-        </div>
-    </div>
-    <div class="container lead-gen-breaker__content">
-        <div class="row">
-            <div class="col-12 col-md-8 offset-md-2">
-                
-                    <h2 class="lead-gen-breaker__title">
-                        저의 경력이 마음에 드신다면 주저하지 마시고,  입사를 제안해 주세요.
-                    </h2>
-                
-                
-                    <a class="lead-gen-breaker__cta btn-brand-1st" href="#" target="_self" data-link="true">입사 제안하기</a>
-                    
-                
-            </div>
-        </div>
-    </div>
-</section></div>
 
 

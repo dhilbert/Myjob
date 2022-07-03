@@ -155,3 +155,143 @@
 <body>
 
 
+
+
+<h1 class="seo-hidden" aria-hidden="true">메트라이프</h1>
+    <script type="text/javascript" defer>
+        var WRInitTime = (new Date()).getTime();
+    </script>
+    <header class="header ">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 header__container">
+                    <div class="header__mobile-navigation">
+                        <a href="#" tabindex="0" class="header__navigation-hamburger" role="button"
+                            aria-labelledby="navmenu">
+                            <svg class="icon icon-menu header__navigation-trigger" aria-hidden="true" tabindex="-1"
+                                focusable="false">
+                                <title id="navmenu">Navigation</title>
+                                <use xlink:href="css/icons-metlife.svg#icon-menu" aria-hidden="true"
+                                    tabindex="-1" focusable="false"></use>
+                            </svg>
+                        </a>
+                    </div>
+                    <div class="header__logo-container">
+                        <a href="/Myjob/" target="_self">
+                        경력 요약
+                        </a>
+                    </div>
+                    <div class="logo-divider"></div>
+                    <div class="d-none d-sm-none d-md-flex d-lg-flex header__navigation-container">
+                    <a href = '/Myjob/pro1.php'> <div role="button" tabindex="0" class="header__navigation-container-menu-item"
+                            data-nav-section="section1" aria-controls="section1">  
+                            <div class="header__navigation-container-menu-item-title font-eyebrow-1">
+                            학력 및 대외 활동   
+                               
+                                
+                            </div>
+                        </div></a>
+                        <a href = '/Myjob/pro2.php'><div role="button" tabindex="0" class="header__navigation-container-menu-item"
+                            data-nav-section="section2" aria-controls="section2">
+                            <div class="header__navigation-container-menu-item-title font-eyebrow-1">
+경력  및 프로젝트                                
+                            </div>
+                        </div></a>
+                        <a href = '/Myjob/pro3.php'>
+                        <div role="button" tabindex="0" class="header__navigation-container-menu-item"
+                            data-nav-section="section3" aria-controls="section3">
+                            <div class="header__navigation-container-menu-item-title font-eyebrow-1">
+                                보유 스킬
+                                
+                            </div>
+                        </div>
+                        </a> <a href = '/Myjob/pro4.php'>
+                         <div role="button" tabindex="0" class="header__navigation-container-menu-item"
+                            data-nav-section="section3" aria-controls="section4">
+                            <div class="header__navigation-container-menu-item-title font-eyebrow-1">
+                                자기 소개서
+                                
+                            </div>
+                        </div>
+                        </a>
+                        </a> <a href = '/Myjob/pro5.php'>
+                         <div role="button" tabindex="0" class="header__navigation-container-menu-item"
+                            data-nav-section="section3" aria-controls="section5">
+                            <div class="header__navigation-container-menu-item-title font-eyebrow-1">
+                                포트폴리오
+                                
+                            </div>
+                        </div>
+                        </a>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <nav class="navigation__menu nav-hidden">
+        <div class="container">
+            <div class="row navigation__menu_mobile-nav-header d-sm-none d-md-none d-lg-none">
+                <div class="header__logo-container">
+                <a href="/Myjob/" target="_self">
+                경력 요약
+                        </a>
+                </div>
+                <svg class="icon icon-close" tabindex="0" role="button" aria-labelledby="title">
+                    <title id="title">close</title>
+                    <use xlink:href="/Myjob/css/icons-metlife.svg#icon-close"></use>
+                </svg>
+            </div>
+            <div class="row navigation__menu_mobile-utility d-md-none d-lg-none">
+                
+       
+                <svg class="icon icon-close d-none d-sm-block" tabindex="0" role="button"
+                    aria-labelledby="hamburger-tab-close">
+                    <title id="hamburger-tab-close">Close</title>
+                    <use xlink:href="/Myjob/css/icons-metlife.svg#icon-close"></use>
+                </svg>
+            </div>
+            <div class="row navigation__menu-row d-md-none d-lg-none section1" data-section="section1" id="section1">
+                
+              
+                      
+            <div class="navigation__menu-nested-nav-link-section-column ">
+                        <div class="navigation__menu-nested-nav-link-section-mobile-title link-nav font-cta-1 d-md-none d-lg-none"
+                            data-section-title="지난 사업">
+                            <a href="/Myjob/pro1.php" target="_self">학력 및 대외 활동                                </a>
+                        </div>
+
+                        <div class="navigation__menu-nested-nav-link-section-mobile-title link-nav font-cta-1 d-md-none d-lg-none"
+                            data-section-title="지난 사업">
+                            <a href="/Myjob/pro2.php" target="_self">   경력  및 프로젝트                                
+                             </a>
+                        </div>
+                      
+                   
+                        <div class="navigation__menu-nested-nav-link-section-mobile-title link-nav font-cta-1 d-md-none d-lg-none"
+                            data-section-title="지난 사업">
+                            <a href="/Myjob/pro3.php" target="_self">보유 스킬</a>
+                        </div>
+                        <div class="navigation__menu-nested-nav-link-section-mobile-title link-nav font-cta-1 d-md-none d-lg-none"
+                            data-section-title="지난 사업">
+                            <a href="/Myjob/pro4.php" target="_self">자기 소개서</a>
+                        </div>
+
+                        <div class="navigation__menu-nested-nav-link-section-mobile-title link-nav font-cta-1 d-md-none d-lg-none"
+                            data-section-title="지난 사업">
+                            <a href="/Myjob/pro5.php" target="_self">포트폴리오</a>
+                        </div>
+                    </div>
+
+
+                
+            </div>
+              </nav>
+
+
+              </div>
+
+
+
+
