@@ -49,7 +49,7 @@
        <td class="font-meta-1"><p><?php echo $array[0]?></p></td>
        <td class="font-body-2"><p>
         
-        <a href ='/MyJob/data/<?php echo $array[4]?>'>veiw</a>
+        <a href ='/Myjob/data/<?php echo $array[4]?>'>veiw</a>
         
         </p></td>
        <td class="font-body-2"><p><?php echo $array[1]?></p></td>
