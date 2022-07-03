@@ -142,7 +142,7 @@
  
 
 $array = array(
-    '/Myjob/img/ca_discover.PNG',
+    '/Myjob/img/ca_discover.png',
     'e-commerce',
     'BAT 운영 업무',
     '- PM / 기획 PL 으로 참여(2020.10 ~ 현재)<br>    
