@@ -134,13 +134,12 @@
                     </div>
                     <div class="col-12  banner-carousel__content  mobile d-sm-none">
                         
-                        <div class="banner-carousel__description"><p>하루 평균 미팅 4~5개, 80% 이상이 좌장으로 미팅을 진행하였습니다. 
-                            <br>내 외부 미팅 진행의 좌장을 진행을 하면 커뮤니케이션 스킬이 많이 향상되었다고 생각합니다.<br />
+                        <div class="banner-carousel__description"><p><strong>하루 평균 미팅 4~5개</strong>
+                                <br> 80% 이상이 좌장으로 미팅을 진행하였습니다. 
+                                <br>내 외부 미팅 진행의 좌장을 진행을 하면 커뮤니케이션 스킬이 많이 향상되었다고 생각합니다.<br />
 </p>
 </div>
-                        <div class="banner-carousel__cta">
-                            <a href="#" target="_self">Learn More</a>
-                        </div>
+                       
                     </div>
                 </div>
             </div>

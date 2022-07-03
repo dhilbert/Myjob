@@ -211,7 +211,7 @@
         
         <div class="col-12 col-sm-8 offset-sm-2 responsive-columns table-content_wrapper">
             <div class="col-12 table-content_wrapper_content">
-                <h3 id="table-content-1157936150--labelledby" class="col-12 font-eyebrow-4 font-subhead-desc-4-sm table-content_header">입사를 확인하세요.</h3>
+                <h3 id="table-content-1157936150--labelledby" class="col-12 font-eyebrow-4 font-subhead-desc-4-sm table-content_header">입사 제안을 확인하세요.</h3>
                 <div class="row table-content_category">
                     
                 <div class="row table-content_category_border">
