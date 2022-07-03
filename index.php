@@ -4,6 +4,8 @@
     include_once('head.php');
     
   
+echo '<p>PHP current version is ' . phpversion() . '</p>';
+
 ?>
 
 
