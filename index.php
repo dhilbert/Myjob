@@ -12,11 +12,6 @@
 
 
 
-    
-
-
-
-
 
 
 <div class="quote-breaker parbase">
@@ -28,7 +23,7 @@
         <div class="col-12 col-md-10 offset-md-1">
                         <div class="row quote-breaker-imagetext-section quote-breaker-imagetext-section-nogradient">
                             <div class="col-12 col-sm-6 col-md-6 quote-breaker-image-mobile-spacing">
-                                <div class="quote-breaker__image quote-breaker-image-nogradient" style="background-image:url('img/KakaoTalk_20220702_133637941.jpg')"></div>
+                                <div class="quote-breaker__image quote-breaker-image-nogradient" style="background-image:url('img/KakaoTalk_20220702_133637941.jpg');height:470px"></div>
                             </div>
                             <div class="col-12 col-sm-6 col-md-6  quote-breaker-content">
                                 <div class="quote-icon-start" aria-hidden="true">

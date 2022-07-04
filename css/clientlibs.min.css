@@ -1,0 +1,54 @@
+.quote-breaker .quote-breaker-container{position:relative}
+.quote-breaker .quote-breaker-content-container{position:relative;border-top-style:solid;border-left-width:0;border-right-width:0;border-bottom-width:0;border-top-width:2px;border-image-source:linear-gradient(to right,#008edd,#a2cf42);border-image-slice:1}
+.quote-breaker .quote-icon-start{margin-bottom:10px}
+.quote-breaker .quote-icon-start span:before{position:relative;content:url('../../../../../../static/images/quotation.svg');display:block;width:40px;height:auto}
+.quote-breaker .quote-breaker-quote-text{margin-left:0}
+.quote-breaker .quote-breaker__title{margin-top:20px;margin-bottom:30px}
+.quote-breaker .quote-icon-start:after{visibility:hidden;line-height:0;font-size:0;width:0}
+.quote-breaker .quote-breaker__image{height:304px;width:auto;background-repeat:no-repeat;background-position:center top}
+.quote-breaker .icon-arrow{width:25px;height:8px;fill:#fff}
+.quote-breaker .quote-breaker-imagetext-section{flex-direction:column-reverse}
+.quote-breaker .quote-breaker-gradient-container{mix-blend-mode:multiply;background-image:linear-gradient(-90deg,#008edd,#0891d5 28%,#a2cf42);opacity:.8 !important}
+.quote-breaker .quote-breaker-image-gradient:hover{background:#333;opacity:1 !important}
+.quote-breaker .gradient-section-noimage .quote-breaker-gradient-container{mix-blend-mode:multiply;background-image:linear-gradient(84deg,#008edd,#0891d5 37%,#a2cf42);opacity:1 !important}
+.quote-breaker .gradient-section-noimage .quote-breaker-gradient-container:hover{background:#333}
+.quote-breaker .quote-breaker-gradient-content{padding:20px 0 15px 20px;color:#fff}
+.quote-breaker .eyebrow-content-title{padding-top:10px}
+.quote-breaker .quote-breaker-author{padding:20px 0}
+.quote-breaker .author-job,.quote-breaker .author-date{padding-top:5px}
+.quote-breaker .eyebrow-icon{display:flex;align-items:center}
+.quote-breaker .quote-breaker-content{padding-top:40px}
+.quote-breaker .quote-breaker-content-noimage{padding-top:70px !important}
+.quote-breaker .quote-breaker-mini-content-section{border-bottom-style:solid;border-bottom-width:2px;border-top-width:0;border-right-width:0;border-left-width:0;border-image-source:linear-gradient(to right,#008edd,#a2cf42);border-image-slice:1}
+.quote-breaker .quote-breaker-mini .quote-breaker-content-container{border:0}
+.quote-breaker .title-date-separator{width:1px;height:16px;opacity:.5;padding:0 20px;color:#a7a8aa}
+.quote-breaker .quote-breaker-imagetext-section-nogradient .quote-breaker__image{height:300px}
+.quote-breaker .quote-breaker-image-mobile-spacing{padding-left:0}
+.quote-breaker .quote-breaker-gradient-mobile-spacing{padding-left:0;padding-right:0}
+.quote-breaker .noimage-line-separator{width:40px;height:1px;border:0;border-top:1px solid #333;margin-bottom:0;text-align:left}
+.quote-breaker .author-jobtitle{display:flex;flex-wrap:wrap;align-items:center}
+@media screen and (min-width:768px){.quote-breaker .quote-breaker__image{height:370px;margin-top:90px}
+.quote-breaker .quote-breaker-content:before{width:38px;height:30px}
+.quote-breaker .quote-icon-start:before{left:-60px;top:50px}
+.quote-breaker .quote-breaker-content-noimage .quote-icon-start:before,.quote-breaker .quote-breaker-mini .quote-icon-start:before{font-size:130px;left:-70px;top:50px}
+.quote-breaker .quote-icon-start:before{font-size:140px}
+.quote-breaker .gradient-section-image{position:absolute;bottom:0;width:100%}
+.quote-breaker .quote-breaker-imagetext-section{flex-direction:row}
+.quote-breaker .quote-breaker-gradient-content{padding:25px 0}
+.quote-breaker .quote-breaker-author{padding:20px 0 40px 0}
+.quote-breaker .quote-breaker-content{padding-top:0}
+.quote-breaker .quote-breaker-image-nogradient{margin-top:0 !important}
+.quote-breaker .quote-breaker-content-noimage{padding-top:40px !important}
+}
+@media screen and (min-width:1024px){.quote-breaker .quote-breaker-content-container{border-top-width:4px;border-left-width:0;border-right-width:0;border-bottom-width:0}
+.quote-breaker .quote-breaker__image{height:470px;margin-top:0}
+.quote-breaker .quote-breaker__title{margin-top:30px;margin-bottom:20px}
+.quote-breaker .quote-breaker-gradient-content{padding:35px 0}
+.quote-breaker .quote-breaker-content{padding-top:20px}
+.quote-breaker .quote-breaker-imagetext-section-nogradient{align-items:center}
+.quote-breaker .gradient-noimage-spacefix{padding-left:33px}
+.quote-breaker .quote-breaker-imagetext-section-nogradient .quote-breaker__image{height:400px;width:80%}
+.quote-breaker .quote-breaker-image-mobile-spacing{padding-left:15px}
+.quote-breaker .quote-breaker-gradient-mobile-spacing{padding-left:15px;padding-right:15px}
+.quote-breaker .quote-breaker-content-noimage .quote-icon-start:before,.quote-breaker .quote-breaker-mini .quote-icon-start:before{font-size:200px;left:-117px;top:80px}
+}
