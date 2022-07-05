@@ -162,6 +162,23 @@ $array = array(
         </svg>
     </a>
 </div>
+<div class="content-promo-banner__cta-link">
+<a class="font-cta-1" href="/Myjob/data/BAT_업무.pdf" target="_self">
+    <span>운영 업무 설명 PPT  확인하기</span>
+    <svg class="icon icon-chevron-right">
+        <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-right"></use>
+    </svg>
+</a>
+</div>
+<div class="content-promo-banner__cta-link">
+<a class="font-cta-1" href="/Myjob/data/[KBO]MZ시스템소개_20220412.pdf" target="_self">
+    <span>시스템infra 설명 PPT 확인하기</span>
+    <svg class="icon icon-chevron-right">
+        <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-right"></use>
+    </svg>
+</a>
+</div>
+    
     '
     
     ,
@@ -206,23 +223,6 @@ $array = array(
             </svg>
         </a>
     </div>
-    <div class="content-promo-banner__cta-link">
-    <a class="font-cta-1" href="/Myjob/data/BAT_업무.pdf" target="_self">
-        <span>운영 업무 설명 PPT  확인하기</span>
-        <svg class="icon icon-chevron-right">
-            <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-right"></use>
-        </svg>
-    </a>
-</div>
-<div class="content-promo-banner__cta-link">
-    <a class="font-cta-1" href="/Myjob/data/[KBO]MZ시스템소개_20220412.pdf" target="_self">
-        <span>시스템infra 설명 PPT 확인하기</span>
-        <svg class="icon icon-chevron-right">
-            <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-right"></use>
-        </svg>
-    </a>
-</div>
-        
     
 
 
