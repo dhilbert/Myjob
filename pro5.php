@@ -223,6 +223,22 @@
                             "기획서",
                             "KBO_couponMC수정_20200629.pdf");
                             hd_jy_table($array);
+
+                            $num+=1;
+                            $array=array($num,
+                            "운영",
+                            "KBO",
+                            "운영 업무 설명 문서",
+                            "BAT_업무.pdf");
+                            hd_jy_table($array);
+                            
+                            $num+=1;
+                            $array=array($num,
+                            "운영",
+                            "KBO",
+                            "시스템 인프라 설명서",
+                            "[KBO]MZ시스템소개_20220412.pdf");
+                            hd_jy_table($array);
                             
                             
                             $num+=1;
@@ -243,8 +259,8 @@
                             
                         
                         ?>
-                            
-                              
+                  
+                          
                             
                         
                                                         
