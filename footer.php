@@ -29,7 +29,8 @@
             <div class="col-12 col-md-8 offset-md-2">
                 
                     <h2 class="lead-gen-breaker__title">
-                        저의 경력이 마음에 드신다면,  입사를 제안해 주세요.
+                        귀사와 함께 하고 싶습니다. 
+                        <br>입사를 제안해 주세요.
                     </h2>
                 
                 
