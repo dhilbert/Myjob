@@ -30,13 +30,13 @@
                 
                     <h2 class="lead-gen-breaker__title">
                         귀사와 함께 하고 싶습니다. 
-                        <br>입사를 제안해 주세요.
+                        <br>연락 부탁 드립니다. 
                     </h2>
                 
-                
+                <!--
                     <a class="lead-gen-breaker__cta btn-brand-1st" href="/Myjob/input.php" target="_self" data-link="true">입사 제안하기</a>
                     
-                
+-->
             </div>
         </div>
     </div>
