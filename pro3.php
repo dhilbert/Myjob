@@ -43,8 +43,18 @@
                     <span id="callout-card-2034586178--labelledby" class="callout-card__headline-text">
 현재 접속 중인 사이트 스팩                    </span>
                 </div>
+                <?php 
+                
+
+
+                ;
+                
+                ?>
+
+
+
                 <div class="callout-card__body font-body-1">
-                개발 환경 : PHP 8.0 / Mysql 5.6<br>
+                개발 환경 : PHP <?php echo phpversion();?>/ 10.4.24-MariaDB<br>
                 AWS 정보<br>
                 -인스턴스 유형 : t2.micro<br>
                 -퍼블릭 IPv4 주소 :  3.36.83.6(탄력적 IP 주소 이용중)<br>

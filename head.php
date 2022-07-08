@@ -223,6 +223,18 @@
                             </div>
                         </div>
                         </a>
+
+                        </a> <a href = '/Myjob/pro6.php'>
+                         <div role="button" tabindex="0" class="header__navigation-container-menu-item"
+                            data-nav-section="section3" aria-controls="section5">
+                            <div class="header__navigation-container-menu-item-title font-eyebrow-1">
+                                개인 프로젝트 
+                                
+                            </div>
+                        </div>
+                        </a>
+
+
                     </div>
                     
                 </div>
@@ -281,6 +293,11 @@
                         <div class="navigation__menu-nested-nav-link-section-mobile-title link-nav font-cta-1 d-md-none d-lg-none"
                             data-section-title="지난 사업">
                             <a href="/Myjob/pro5.php" target="_self">포트폴리오</a>
+                        </div>
+                        
+                        <div class="navigation__menu-nested-nav-link-section-mobile-title link-nav font-cta-1 d-md-none d-lg-none"
+                            data-section-title="지난 사업">
+                            <a href="/Myjob/pro6.php" target="_self">개인 프로젝트</a>
                         </div>
                     </div>
 
