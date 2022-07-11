@@ -51,7 +51,38 @@
     </div>
 </div>
 
-
+    
+<script type="text/javascript" src="https://design.metlife.com/etc.clientlibs/MetlifeMarketCore/components/content/global/callout-card/clientlibs.min.js" defer></script>
+<link rel="stylesheet" href="https://design.metlife.com/etc.clientlibs/MetlifeMarketCore/components/content/global/callout-card/clientlibs.min.css" type="text/css">
+<section id="callout-card-2034586178" class="callout-card component component__spacing-bottom " role="region" aria-labelledby="callout-card-2034586178--labelledby">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-8 offset-sm-2 responsive-columns">
+            <div class="callout-card__content">
+            <div class="callout-card__headline">
+                        
+                        <span id="callout-card-2034586178--labelledby" class="callout-card__headline-text">이력서 및 경력 기술서 다운로드                                 </span>
+                    </div>
+                    <a class="callout-card__link" href="/Myjob/data/윤희동_이력서.pdf" target="_self">
+                        <span class="callout-card__link-text">이력서 다운로드하기</span>
+                        <svg class="icon icon-chevron-right" aria-hidden="true" tabindex="-1" focusable="false">
+                            <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-right" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                        </svg>
+                    </a>
+                    <br>
+                    <a class="callout-card__link" href="/Myjob/data/윤희동경력기술서_2022.pdf" target="_self">
+                        <span class="callout-card__link-text">경력기술서 다운로드하기</span>
+                        <svg class="icon icon-chevron-right" aria-hidden="true" tabindex="-1" focusable="false">
+                            <use xlink:href="/static/images/icons-metlife.svg#icon-chevron-right" aria-hidden="true" tabindex="-1" focusable="false"></use>
+                        </svg>
+                    </a>
+                    
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+</section></div>
 
 
     
@@ -172,6 +203,10 @@ $item_array  = array(
 );
 
 ?>
+
+
+
+
 
 <script type="text/javascript" src="https://evolution.metlife.com/etc.clientlibs/MetlifeMarketCore/components/content/global/value-prop/clientlibs.min.js" defer></script>
     <link rel="stylesheet" href="https://evolution.metlife.com/etc.clientlibs/MetlifeMarketCore/components/content/global/value-prop/clientlibs.min.css" type="text/css">
