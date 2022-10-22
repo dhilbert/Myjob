@@ -2,7 +2,7 @@
 error_reporting( E_ALL );
 ini_set( "display_errors", 1 );
 include('function.php');
-
+/*
 $real_hostname="3.36.83.6";
 $real_username="cfgaussroot";
 $real_password="autoset";
