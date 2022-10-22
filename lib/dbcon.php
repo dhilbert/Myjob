@@ -1085,4 +1085,5 @@ function CliffNotes($title,$array){
 </div>
 <?php 
 }
+*/
 ?>
